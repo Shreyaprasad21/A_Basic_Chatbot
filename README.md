@@ -1,7 +1,5 @@
-
-
-# PROJECT 2 - COLLEGE QUERY CHATBOT
-This project has been done as a part of my internship program at Nexus Info. This is the second project of my internship, where I utilized natural language processing and sentiment analysis to create a robust chatbot for answering college-related queries. The internship was conducted remotely, allowing me to collaborate with professionals and enhance my skills in a virtual environment.
+# A BASIC CHATBOT
+This project has been developed as a personal project where I utilized natural language processing and sentiment analysis to create a robust chatbot for answering general queries. Working on this project allowed me to enhance my skills in natural language processing and sentiment analysis in a self-paced environment.
 
 ## Contents
 1. [Introduction](#introduction)
@@ -13,7 +11,7 @@ This project has been done as a part of my internship program at Nexus Info. Thi
 7. [Notes](#notes)
 
 ## Introduction
-The College Query Chatbot is designed to assist students by providing automated responses to common college-related queries. The chatbot leverages natural language processing (NLP) techniques to understand and respond to user queries effectively. The system aims to enhance the student experience by providing quick and accurate information about college admissions, courses, scholarships, and more. The project integrates sentiment analysis to gauge user sentiment and visualize word clouds to understand the frequent topics of queries and responses. The application is implemented in Python and can be extended to cover a wider range of queries.
+The General Query Chatbot is designed to assist users by providing automated responses to a variety of common queries. The chatbot leverages natural language processing (NLP) techniques to understand and respond to user queries effectively. The system aims to enhance user experience by providing quick and accurate information about various topics. The project integrates sentiment analysis to gauge user sentiment and visualize word clouds to understand the frequent topics of queries and responses. The application is implemented in Python and can be extended to cover a wider range of queries.
 
 ## Features
 - **Automated Responses:** Provides quick and accurate responses to common college-related queries.
