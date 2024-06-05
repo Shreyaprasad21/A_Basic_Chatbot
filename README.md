@@ -34,7 +34,7 @@ The General Query Chatbot is designed to assist users by providing automated res
 ## Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Shreyaprasad21/College_Query_Chatbot.git
+   git clone https://github.com/Shreyaprasad21/A_Basic_Chatbot.git
 
 2. Run the chatbot script:
       ```sh
