@@ -1,4 +1,3 @@
-![240_F_378897598_A35SQK2PFGpsA0xJNuW32rhuV5ndZ0sZ](https://github.com/Shreyaprasad21/A_Basic_Chatbot/assets/142075353/33b0cea2-dcce-46d4-bc1a-2e892cb3a37a)
 # A BASIC CHATBOT
 This project has been developed as a personal project where I utilized natural language processing and sentiment analysis to create a robust chatbot for answering general queries. Working on this project allowed me to enhance my skills in natural language processing and sentiment analysis in a self-paced environment.
 
