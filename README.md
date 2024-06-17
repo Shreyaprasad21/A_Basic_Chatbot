@@ -3,7 +3,7 @@ This project has been developed as a personal project where I utilized natural l
   
 ## Contents
 1. [Introduction](#introduction)
-2. [Features](#features)
+2. [Features](#features)  
 3. [Dependencies](#dependencies)
 4. [Usage](#usage)
 5. [File Structure](#file-structure)
