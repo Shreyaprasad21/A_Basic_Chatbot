@@ -1,4 +1,4 @@
-# A BASIC CHATBOT
+# CHATBOT
 This project has been developed as a personal project where I utilized natural language processing and sentiment analysis to create a robust chatbot for answering general queries. Working on this project allowed me to enhance my skills in natural language processing and sentiment analysis in a self-paced environment.
   
 ## Contents
