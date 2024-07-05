@@ -1,4 +1,4 @@
-# CHATBOT
+# A Basic Chatbot
 This project has been developed as a personal project where I utilized natural language processing and sentiment analysis to create a robust chatbot for answering general queries. Working on this project allowed me to enhance my skills in natural language processing and sentiment analysis in a self-paced environment.
   
 ## Contents
@@ -34,7 +34,7 @@ The General Query Chatbot is designed to assist users by providing automated res
 ## Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Shreyaprasad21/A_Basic_Chatbot.git
+   git clone https://github.com/Shreyaprasad21/A-Basic-Chatbot.git
 
 2. Run the chatbot script:
       ```sh
@@ -54,7 +54,7 @@ The General Query Chatbot is designed to assist users by providing automated res
 
 1. Start the chatbot by running:
   ```
-  python Chatbot.ipynb
+  Chatbot.ipynb
   ```
 
 2. Interact with the chatbot in the console. Type 'exit' to end the conversation.
